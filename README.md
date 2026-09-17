@@ -4,6 +4,13 @@
 
 This project analyzes quality of life in Canada from 2019 to 2023 using Power BI.
 
+The analysis focuses on five dimensions:
+- Health
+- Prosperity
+- Society
+- Environment
+- Governance
+
 ## Tools
 
 - Power BI
@@ -14,9 +21,14 @@ This project analyzes quality of life in Canada from 2019 to 2023 using Power BI
 ## Key Insights
 
 - Health-adjusted life expectancy decreased from 2019 to 2023.
-- The project analyzes Health, Prosperity, Society, Environment, and Governance.
-- The dashboard helps identify trends and changes over time.
+- The analysis compares trends across five quality-of-life dimensions.
+- The dashboard helps users explore changes and trends over time.
 
 ## Business Value
 
-This analysis helps decision-makers understand changes in quality of life and identify areas that may need attention.
+This analysis provides a clear view of changes in quality of life and helps identify areas that may require further attention.
+
+## Project Files
+
+- `final project pi_data 1.pbix` — Power BI project file
+- `Quality-of-Life-in-Canada.pptx` — Project presentation
